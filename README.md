@@ -6,10 +6,10 @@ Open a terminal window at the current Finder folder with one click. Works with G
 
 ## How to use
 
-- Copy `Go2Shell.app` to the Application directory.
-- Hold down the Command key and drag it to the Finder toolbar.
+- Hold down the Command key and drag `Go2Shell.app` to the Finder toolbar.
 - Click the icon: your default terminal opens at the current folder.
-- Hold ⌥ and click the icon: settings dialog — pick Ghostty / iTerm2 / Terminal, enter any custom app name, and toggle "always open a new window".
+- Drag `Go2Shell Settings.app` to the toolbar as well (or open it from Spotlight): it shows the settings dialog — pick Ghostty / iTerm2 / Terminal, enter any custom app name, and toggle "always open a new window".
+  (Settings is a separate icon because ⌥-clicking a toolbar icon closes the current Finder window on recent macOS.)
 - Or set it from the command line:
 
   ```sh

@@ -27,6 +27,8 @@
 	</dict>
 	<key>LSRequiresCarbon</key>
 	<true/>
+	<key>LSUIElement</key>
+	<true/>
 	<key>NSAppleEventsUsageDescription</key>
 	<string>Go2Shell needs to control Finder to get the current folder and open your terminal.</string>
 	<key>NSAppleMusicUsageDescription</key>
